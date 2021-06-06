@@ -10,7 +10,7 @@ public class DataTypes4{
 	String namaBelakang = "Husna";
 	int usia = 21;
 	int targetTahunKuliah = 2;
-	double ipk = 3.8997645512;
+	double ipk = 3.89764512;
 	char nilaiAbjad = 'A';
 	boolean cantik = true;
 	
