@@ -20,7 +20,6 @@ public class DataTypes3{
 	System.err.println("Cantik : " + cantik);
 
 	JOptionPane.showMessageDialog(null,"Hai, " + namaDepan + namaBelakang);
-	JOptionPane.showMessageDialog(null,"Hai, " + namaBelakang);
-
+	
  }
 }
